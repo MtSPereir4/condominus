@@ -20,7 +20,7 @@ int main()
            printf("Faturamento nao atingiu a loja B: R$ %.2f\n", faturamento);
        } 
       
-      
+   printf("Ass. Pedro Tales");    
     
     return 0;
 }
