@@ -23,4 +23,4 @@ int main()
    printf("Ass. Pedro Tales");    
     
     return 0;
-}
+} printf ("o luiz eh gay");
